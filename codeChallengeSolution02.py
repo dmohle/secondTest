@@ -38,10 +38,13 @@ print()
 # print six lines
 print("\n\n\n\n\n")
 
-# Create three variables with hard-coded values.
+# Create five variables with hard-coded values.
 name = "Dmitriy"
 weeks = "22 weeks"
 weekly_pay = "$1234.56 per week"
+hrs_per_day = 4.5
+days_per_week = 3
+
 
 
 # write a function to get these values
